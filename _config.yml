@@ -18,10 +18,10 @@ avatar: https://avatars1.githubusercontent.com/u/7264698?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: gavin dot w dot ding at gmail dot com
+  email: gavin.w.ding@gmail.com
   facebook:
   flickr:
-  github: gwding/gwding.github.io
+  github: gwding
   instagram:
   linkedin: weiguang-gavin-ding-59709225
   pinterest:
@@ -37,7 +37,7 @@ footer-links:
 disqus: gwding
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-71804320-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
