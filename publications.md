@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Publications
 permalink: /publications/
 published: true
 ---
 
+[Google Scholar Profile](http://scholar.google.ca/citations?user=f7AS33oAAAAJ&hl=en)
+
+# Publications
 
 <img class="pubPic" style="float:left;margin-right:20px" src="http://www.uoguelph.ca/~wding/rudy2014neural.png" width=80 height=80> Jan Rudy, **Weiguang Ding**, Daniel Jiwoong Im, and Graham W. Taylor, **Neural Network Regularization via Robust Weight Factorization**, _arXiv paper_. [link](http://arxiv.org/abs/1412.6630) [pdf](http://arxiv.org/pdf/1412.6630.pdf)
 
