@@ -15,7 +15,7 @@ I got my Master of Applied Science degree from [School of Engineering Science](h
 
 I got my Bachelor of Engineering degree from [School of Advanced Engineering](http://sae.buaa.edu.cn/) (academic talent program) at [Beihang University](http://www.buaa.edu.cn/) (Beijing, China), where I studied Automation, specifically, flight control system.
 
-I was born in [Handan](https://en.wikipedia.org/wiki/Handan), Hebei, China (河北, 邯郸), and spent almost 20 years there before college. 
+I spent nearly 20 years at [Handan](https://en.wikipedia.org/wiki/Handan), Hebei, China (河北, 邯郸) before college.
 
 
 ### [CV](http://www.uoguelph.ca/~wding/CV.pdf)
