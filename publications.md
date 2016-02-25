@@ -8,7 +8,11 @@ published: true
 
 # Publications
 
-<img class="pubPic" style="float:left;margin-right:20px" src="http://www.uoguelph.ca/~wding/rudy2014neural.png" width=80 height=80> Jan Rudy, _Weiguang Ding_, Daniel Jiwoong Im, and Graham W. Taylor, **Neural Network Regularization via Robust Weight Factorization**, _arXiv paper_. [link](http://arxiv.org/abs/1412.6630) [pdf](http://arxiv.org/pdf/1412.6630.pdf)
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2016automatic.png" width=80 height=80> _Weiguang Ding_ and Graham Taylor, **Automatic moth detection from trap images for pest management**, _Computers and Electronics in Agriculture  (2016), pp. 17-28_. [journal link](http://dx.doi.org/10.1016/j.compag.2016.02.003), [preprint link](http://arxiv.org/abs/1602.07383), [preprint pdf](http://arxiv.org/pdf/1602.07383.pdf)
+_____
+
+
+<img style="float:left;margin-right:20px" src="http://www.uoguelph.ca/~wding/rudy2014neural.png" width=80 height=80> Jan Rudy, _Weiguang Ding_, Daniel Jiwoong Im, and Graham W. Taylor, **Neural Network Regularization via Robust Weight Factorization**, _arXiv paper_. [link](http://arxiv.org/abs/1412.6630) [pdf](http://arxiv.org/pdf/1412.6630.pdf)
 _____
 
 <img style="float:left;margin-right:20px" src="http://www.uoguelph.ca/~wding/ding2014theano.png" width="80" height="80"> _Weiguang Ding_, Ruoyan Wang, Fei Mao and Graham W. Taylor, **Theano-based Large-Scale Visual Recognition with Multiple GPUs**, _ICLR workshop_, 2015. [link](http://arxiv.org/abs/1412.2302) [pdf](http://arxiv.org/pdf/1412.2302.pdf) [code](https://github.com/uoguelph-mlrg/theano_alexnet)
