@@ -8,6 +8,9 @@ published: true
 
 # Publications
 
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/jian2016lens.jpg" width=80 height=80> Yifan Jian, Sujin Lee, Myeong Jin Ju, Morgan Heisler, _Weiguang Ding_, Robert J. Zawadzki, Stefano Bonora and Marinko V. Sarunic, **Lens-based wavefront sensorless adaptive optics swept source OCT**, Scientific reports (2016). [journal link](http://www.nature.com/articles/srep27620), [pdf link](http://www.readcube.com/articles/10.1038/srep27620)
+_____
+
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2016automatic.png" width=80 height=80> _Weiguang Ding_ and Graham Taylor, **Automatic moth detection from trap images for pest management**, _Computers and Electronics in Agriculture  (2016), pp. 17-28_. [journal link](http://dx.doi.org/10.1016/j.compag.2016.02.003), [preprint link](http://arxiv.org/abs/1602.07383), [preprint pdf](http://arxiv.org/pdf/1602.07383.pdf)
 _____
 
