@@ -6,10 +6,11 @@ published: true
 ---
 
 
-I am a research scientist (January 2014 to present) working with [Dr. Graham Taylor](http://www.uoguelph.ca/~gwtaylor/) in [School of Engineering](http://www.uoguelph.ca/engineering/), [University of Guelph](http://www.uoguelph.ca/), Canada.
-Generally, I am interested in topics of related to intelligence, especially learning and vision. Currently I am working on deep learning and representation learning.
+I am an Artificial Intelligence Researcher working at a stealthy stage robotics startup company. Generally, I am interested in topics of related to intelligence, especially those related to learning, vision and motion.
 
 ### Brief Bio
+
+I was a research scientist (January 2014 to April 2015) working with [Dr. Graham Taylor](http://www.uoguelph.ca/~gwtaylor/) in [School of Engineering](http://www.uoguelph.ca/engineering/), [University of Guelph](http://www.uoguelph.ca/), Canada. There, I worked on deep learning and representation learning.
 
 I got my Master of Applied Science degree from [School of Engineering Science](http://www.ensc.sfu.ca/) at [Simon Fraser University](http://www.sfu.ca/) (Burnaby, BC, Canada). I worked on medical image analysis with [Dr. Mirza Faisal Beg](http://www2.ensc.sfu.ca/~mfbeg/). At SFU, I worked on 2 projects: 1) analysis of zebrafish heart optical mapping data; 2) automated detection of retinal fluids from OCT images.
 
