@@ -6,7 +6,7 @@ published: true
 ---
 
 
-I am an Artificial Intelligence Researcher working at a stealthy stage robotics startup company. Generally, I am interested in topics of related to intelligence, especially those related to learning, vision and motion.
+I am currently an Artificial Intelligence Researcher working at a stealthy stage robotics startup company in Toronto, ON, Canada. I am interested a wide range of topics of related to intelligence.
 
 ### Brief Bio
 
@@ -19,7 +19,7 @@ I got my Bachelor of Engineering degree from [School of Advanced Engineering](ht
 I spent nearly 20 years at [Handan](https://en.wikipedia.org/wiki/Handan), Hebei, China (河北, 邯郸) before college.
 
 
-### [CV](http://www.uoguelph.ca/~wding/CV.pdf)
+[**CV**](http://www.uoguelph.ca/~wding/CV.pdf)  (might be out of date, latest always available upon request)
 
 ### Contact me
 
