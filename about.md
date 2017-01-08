@@ -5,10 +5,11 @@ permalink: /about/
 published: true
 ---
 
-
-I am currently an Artificial Intelligence Researcher working at a stealthy robotics startup company at Toronto, ON, Canada. I am interested in a wide range of topics of related to intelligence.
+I am a Machine Learning Researcher working at RBC Research at Toronto, ON, Canada. I am interested in a wide range of topics of related to machine learning and artificial intelligence.
 
 ### Brief Bio
+
+Before joining RBC, I was an Artificial Intelligence Researcher at [Kindred AI](https://www.kindred.ai/) , where I worked on robotics and machine learning.
 
 I was a research scientist (January 2014 to April 2015) working with [Dr. Graham Taylor](http://www.uoguelph.ca/~gwtaylor/) in [School of Engineering](http://www.uoguelph.ca/engineering/), [University of Guelph](http://www.uoguelph.ca/), Canada. There, I worked on deep learning and representation learning.
 
