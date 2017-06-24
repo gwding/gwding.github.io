@@ -8,6 +8,8 @@ published: true
 
 # Publications
 
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017multiple.png" width="80" height="80"> Donghuan Lu, _Weiguang Ding_, Andrew B. Merkur, Marinko V. Sarunic, and Mirza Faisal Beg, **Multiple Instance Learning for Age-Related Macular Degeneration Diagnosis in Optical Coherence Tomography Images**, IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
+
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/jian2016lens.jpg" width="80" height="80"> Yifan Jian, Sujin Lee, Myeong Jin Ju, Morgan Heisler, _Weiguang Ding_, Robert J. Zawadzki, Stefano Bonora and Marinko V. Sarunic, **Lens-based wavefront sensorless adaptive optics swept source OCT**, Scientific reports (2016). [journal webpage](http://www.nature.com/articles/srep27620){:target="_blank"}, [pdf](http://www.readcube.com/articles/10.1038/srep27620){:target="_blank"}
 
