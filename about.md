@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-I am a Machine Learning Researcher working at [RBC Research](http://rbcresearch.com/){:target="_blank"} at Toronto, ON, Canada. I am interested in a wide range of topics of related to machine learning and artificial intelligence.
+I am a Machine Learning Researcher working at [Borealis AI](http://borealisai.com/){:target="_blank"} at Toronto, ON, Canada. I am interested in a wide range of topics of related to machine learning and artificial intelligence. Currently I spend the majority of my time researching adversarial robustness of deep learning models.
 
 ### Brief Bio
 
-Before joining RBC, I was an Artificial Intelligence Researcher at [Kindred AI](https://www.kindred.ai/){:target="_blank"} , where I worked on robotics and machine learning.
+Before joining Borealis AI, I was an Artificial Intelligence Researcher at [Kindred AI](https://www.kindred.ai/){:target="_blank"} , where I worked on robotics and machine learning.
 
 I was a research scientist (January 2014 to April 2015) working with [Dr. Graham Taylor](http://www.uoguelph.ca/~gwtaylor/){:target="_blank"} in [School of Engineering](http://www.uoguelph.ca/engineering/){:target="_blank"}, [University of Guelph](http://www.uoguelph.ca/){:target="_blank"}, Canada. There, I worked on deep learning and representation learning.
 
