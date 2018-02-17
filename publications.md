@@ -73,14 +73,14 @@ _Weiguang Ding_, Mei Young, Serge Bourgault, Sieun Lee, David A. Albiani, Andrew
 
 <img style="float:left;margin-right:20px;" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2013thesis.png" width="80" height="80">
 _Master Thesis_: **Identification of Pacemaking Region in Zebrafish Heart from Optical Mapping Data** _Simon Fraser University, April 2013_   
-[pdf](https://raw.githubusercontent.com/gwding/gwding.github.io/master/pdfs/master_thesis_sfu.pdf){:target="_blank"}
+[pdf](http://nbviewer.jupyter.org/github/gwding/gwding.github.io/blob/master/pdfs/master_thesis_sfu.pdf){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px;" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/CMPT726_report_final.jpg" width="80" height="80">
 _Course project_: **Multiple-Layer Neural Network Applied to Phase Gradient Recovery from Fringe Pattern** _CMPT 726 Machine Learning, December 2011_ 
-[pdf](https://raw.githubusercontent.com/gwding/gwding.github.io/master/pdfs/CMPT726_report_final.pdf){:target="_blank"}
+[pdf](http://nbviewer.jupyter.org/github/gwding/gwding.github.io/blob/master/pdfs/CMPT726_report_final.pdf){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px;" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ENSC895_FinalReport_V3.jpg" width="80" height="80">
 _Course project_: **Blastomere Detection of Cleavage Stage Human Embryo** _ENSC 895 Biomedical Image Processing, April 2011_     
-[pdf](https://raw.githubusercontent.com/gwding/gwding.github.io/master/pdfs/ENSC895_FinalReport_V3.pdf){:target="_blank"}
+[pdf](http://nbviewer.jupyter.org/github/gwding/gwding.github.io/blob/master/pdfs/ENSC895_FinalReport_V3.pdf){:target="_blank"}
