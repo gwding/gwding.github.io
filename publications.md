@@ -8,13 +8,12 @@ published: true
 
 ## Machine Learning
 
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/cao2018improving.png" width="80" height="80"> 
+Yanshuai Cao, _Gavin Weiguang Ding_ , Kry Yik-Chau Lui, Ruitong Huang, **Improving GAN Training via Binarized Representation Entropy (BRE) Regularization**, _International Conference on Learning Representations (ICLR) 2018._ [webpage](https://openreview.net/forum?id=BkLhaGZRW){:target="_blank"}, [pdf](https://openreview.net/pdf?id=BkLhaGZRW){:target="_blank"}
+
+
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/wang2018adversarial.png" width="80" height="80"> 
 Luyu Wang, _Gavin Weiguang Ding_, Ruitong Huang, Yanshuai Cao, Yik Chau Lui, **Adversarial Robustness of Pruned Neural Networks**, _2018._ [webpage](https://openreview.net/forum?id=SJGrAisIz){:target="_blank"}, [pdf](https://openreview.net/pdf?id=SJGrAisIz){:target="_blank"}
-
-
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/cao2018improving.png" width="80" height="80"> 
-Yanshuai Cao, _Gavin Weiguang Ding_ , Kry Yik-Chau Lui
-, Ruitong Huang, **Improving GAN Training via Binarized Representation Entropy (BRE) Regularization**, _International Conference on Learning Representations (ICLR) 2018._ [webpage](https://openreview.net/forum?id=BkLhaGZRW){:target="_blank"}, [pdf](https://openreview.net/pdf?id=BkLhaGZRW){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2016automatic.png" width="80" height="80"> 
@@ -36,19 +35,24 @@ _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transfo
 ## Medical Image Analysis
 
 
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017retinal.png" width="80" height="120"> Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017retinal.png" width="80" height="120"> 
+Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
 
 
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multimodal.png" width="80" height="80"> Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer's Disease using structural MR and FDG-PET images**, _Scientific Reports, 2018._ [preprint pdf](https://arxiv.org/pdf/1710.04782.pdf){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multimodal.png" width="80" height="80"> 
+Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer's Disease using structural MR and FDG-PET images**, _Scientific Reports, 2018._ [preprint pdf](https://arxiv.org/pdf/1710.04782.pdf){:target="_blank"}
 
 
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multiscale.png" width="80" height="90"> Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multiscale deep neural network based analysis of FDG-PET images for the early diagnosis of Alzheimer’s disease**, _Medical Image Analysis, 2018._ [journal webpage](https://www.sciencedirect.com/science/article/pii/S1361841518300276){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multiscale.png" width="80" height="90"> 
+Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multiscale deep neural network based analysis of FDG-PET images for the early diagnosis of Alzheimer’s disease**, _Medical Image Analysis, 2018._ [journal webpage](https://www.sciencedirect.com/science/article/pii/S1361841518300276){:target="_blank"}
 
 
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017multiple.png" width="80" height="80"> Donghuan Lu, _Weiguang Ding_, Andrew B. Merkur, Marinko V. Sarunic, and Mirza Faisal Beg, **Multiple Instance Learning for Age-Related Macular Degeneration Diagnosis in Optical Coherence Tomography Images**, _IEEE International Symposium on Biomedical Imaging (ISBI), 2017._ [webpage](http://ieeexplore.ieee.org/abstract/document/7950487/){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017multiple.png" width="80" height="80"> 
+Donghuan Lu, _Weiguang Ding_, Andrew B. Merkur, Marinko V. Sarunic, and Mirza Faisal Beg, **Multiple Instance Learning for Age-Related Macular Degeneration Diagnosis in Optical Coherence Tomography Images**, _IEEE International Symposium on Biomedical Imaging (ISBI), 2017._ [webpage](http://ieeexplore.ieee.org/abstract/document/7950487/){:target="_blank"}
 
 
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/jian2016lens.jpg" width="80" height="80"> Yifan Jian, Sujin Lee, Myeong Jin Ju, Morgan Heisler, _Weiguang Ding_, Robert J. Zawadzki, Stefano Bonora and Marinko V. Sarunic, **Lens-based wavefront sensorless adaptive optics swept source OCT**, _Scientific reports, 2016._ [journal webpage](http://www.nature.com/articles/srep27620){:target="_blank"}, [pdf](http://www.readcube.com/articles/10.1038/srep27620){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/jian2016lens.jpg" width="80" height="80"> 
+Yifan Jian, Sujin Lee, Myeong Jin Ju, Morgan Heisler, _Weiguang Ding_, Robert J. Zawadzki, Stefano Bonora and Marinko V. Sarunic, **Lens-based wavefront sensorless adaptive optics swept source OCT**, _Scientific reports, 2016._ [journal webpage](http://www.nature.com/articles/srep27620){:target="_blank"}, [pdf](http://www.readcube.com/articles/10.1038/srep27620){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2014automatic.png" width="80" height="80">
