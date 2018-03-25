@@ -36,7 +36,7 @@ _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transfo
 ## Medical Image Analysis
 
 
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017retinal.png" width="80" height="100"> Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017retinal.png" width="80" height="120"> Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multimodal.png" width="80" height="80"> Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer's Disease using structural MR and FDG-PET images**, _Scientific Reports, 2018._ [preprint pdf](https://arxiv.org/pdf/1710.04782.pdf){:target="_blank"}
@@ -52,11 +52,11 @@ _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transfo
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2014automatic.png" width="80" height="80">
-_Weiguang Ding_, Eric Lin, Amanda Ribeiro, Marinko Sarunic, Glen F. Tibbits, and Mirza Faisal Beg, **Automatic Cycle Averaging for Denoising Approximately Periodic Spatiotemporal Signals**, _IEEE Transactions on Medical Imaging (TMI)_, 2014. [webpage](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6814908){:target="_blank"}
+_Weiguang Ding_, Eric Lin, Amanda Ribeiro, Marinko Sarunic, Glen F. Tibbits, and Mirza Faisal Beg, **Automatic Cycle Averaging for Denoising Approximately Periodic Spatiotemporal Signals**, _IEEE Transactions on Medical Imaging (TMI)_, 2014. [journal webpage](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6814908){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px;margin-bottom:30px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lin2013optical.png" width="80" height="80">
-Eric Lin, Amanda Ribeiro, _Weiguang Ding_, Leif Hove-Madsen, Marinko Sarunic, Glen F. Tibbits, and Mirza Faisal Beg, **Optical mapping of the electrical activity of isolated adult zebrafish hearts: acute effects of temperature**, _American Journal of Physiology - Regulatory, Integrative and Comparative Physiology (AJP-REGU)_, 2014. [webpage](http://www.ncbi.nlm.nih.gov/pubmed/24671241){:target="_blank"}
+Eric Lin, Amanda Ribeiro, _Weiguang Ding_, Leif Hove-Madsen, Marinko Sarunic, Glen F. Tibbits, and Mirza Faisal Beg, **Optical mapping of the electrical activity of isolated adult zebrafish hearts: acute effects of temperature**, _American Journal of Physiology - Regulatory, Integrative and Comparative Physiology (AJP-REGU)_, 2014. [journal webpage](http://www.ncbi.nlm.nih.gov/pubmed/24671241){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px;margin-bottom:30px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2013identification.jpg" width="80" height="80">
