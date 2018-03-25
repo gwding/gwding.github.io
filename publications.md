@@ -31,6 +31,7 @@ _Weiguang Ding_, Ruoyan Wang, Fei Mao and Graham W. Taylor, **Theano-based Large
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2014mental.PNG" width="80" height="80"> 
 _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transforming Distance**, _NIPS Deep Learning Workshop_, 2014. [pdf](http://arxiv.org/pdf/1406.3010.pdf){:target="_blank"}
 
+<br><br>
 
 ## Medical Image Analysis
 
