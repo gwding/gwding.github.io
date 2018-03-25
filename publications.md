@@ -9,42 +9,41 @@ published: true
 ## Machine Learning
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/wang2018adversarial.png" width="80" height="80"> 
-Luyu Wang, _Gavin Weiguang Ding_, Ruitong Huang, Yanshuai Cao, Yik Chau Lui, **Adversarial Robustness of Pruned Neural Networks**, _under submission to ICLR workshop, 2018._ [webpage](https://openreview.net/forum?id=SJGrAisIz){:target="_blank"}, [pdf](https://openreview.net/pdf?id=SJGrAisIz){:target="_blank"}
+Luyu Wang, _Gavin Weiguang Ding_, Ruitong Huang, Yanshuai Cao, Yik Chau Lui, **Adversarial Robustness of Pruned Neural Networks**, _2018._ [webpage](https://openreview.net/forum?id=SJGrAisIz){:target="_blank"}, [pdf](https://openreview.net/pdf?id=SJGrAisIz){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/cao2018improving.png" width="80" height="80"> 
 Yanshuai Cao, _Gavin Weiguang Ding_ , Kry Yik-Chau Lui
-, Ruitong Huang, **Improving GAN Training via Binarized Representation Entropy (BRE) Regularization**, _to appear at International Conference on Learning Representations (ICLR) 2018._ [webpage](https://openreview.net/forum?id=BkLhaGZRW){:target="_blank"}, [pdf](https://openreview.net/pdf?id=BkLhaGZRW){:target="_blank"}
+, Ruitong Huang, **Improving GAN Training via Binarized Representation Entropy (BRE) Regularization**, _International Conference on Learning Representations (ICLR) 2018._ [webpage](https://openreview.net/forum?id=BkLhaGZRW){:target="_blank"}, [pdf](https://openreview.net/pdf?id=BkLhaGZRW){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2016automatic.png" width="80" height="80"> 
-_Weiguang Ding_ and Graham Taylor, **Automatic moth detection from trap images for pest management**, _Computers and Electronics in Agriculture, 2016, pp. 17-28_. [journal webpage](http://dx.doi.org/10.1016/j.compag.2016.02.003){:target="_blank"}, [preprint webpage](http://arxiv.org/abs/1602.07383){:target="_blank"}, [preprint pdf](http://arxiv.org/pdf/1602.07383.pdf){:target="_blank"}
+_Weiguang Ding_ and Graham Taylor, **Automatic moth detection from trap images for pest management**, _Computers and Electronics in Agriculture, 2016, pp. 17-28_. [journal webpage](http://dx.doi.org/10.1016/j.compag.2016.02.003){:target="_blank"}, [preprint pdf](http://arxiv.org/pdf/1602.07383.pdf){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/rudy2014neural.png" width="80" height="80"> 
-Jan Rudy, _Weiguang Ding_, Daniel Jiwoong Im, and Graham W. Taylor, **Neural Network Regularization via Robust Weight Factorization**, _arXiv preprint_. [webpage](http://arxiv.org/abs/1412.6630){:target="_blank"}, [pdf](http://arxiv.org/pdf/1412.6630.pdf){:target="_blank"}
+Jan Rudy, _Weiguang Ding_, Daniel Jiwoong Im, and Graham W. Taylor, **Neural Network Regularization via Robust Weight Factorization**, _arXiv preprint_. [pdf](http://arxiv.org/pdf/1412.6630.pdf){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2014theano.png" width="80" height="80"> 
-_Weiguang Ding_, Ruoyan Wang, Fei Mao and Graham W. Taylor, **Theano-based Large-Scale Visual Recognition with Multiple GPUs**, _ICLR workshop_, 2015. [webpage](http://arxiv.org/abs/1412.2302){:target="_blank"}, [pdf](http://arxiv.org/pdf/1412.2302.pdf){:target="_blank"}, [code](https://github.com/uoguelph-mlrg/theano_alexnet){:target="_blank"}
+_Weiguang Ding_, Ruoyan Wang, Fei Mao and Graham W. Taylor, **Theano-based Large-Scale Visual Recognition with Multiple GPUs**, _ICLR workshop_, 2015. [pdf](http://arxiv.org/pdf/1412.2302.pdf){:target="_blank"}, [code](https://github.com/uoguelph-mlrg/theano_alexnet){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/ding2014mental.PNG" width="80" height="80"> 
-_Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transforming Distance**, _NIPS Deep Learning Workshop_, 2014.   
-[webpage](http://arxiv.org/abs/1406.3010){:target="_blank"}, [pdf](http://arxiv.org/pdf/1406.3010.pdf){:target="_blank"}
-
-
-
+_Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transforming Distance**, _NIPS Deep Learning Workshop_, 2014. [pdf](http://arxiv.org/pdf/1406.3010.pdf){:target="_blank"}
 
 
 ## Medical Image Analysis
 
 
-
-
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017retinal.png" width="80" height="100"> Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
 
-<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multimodal.png" width="80" height="80"> Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer's Disease using structural MR and FDG-PET images**, _to appear at Medical Image Analysis, 2018._ [preprint pdf](https://arxiv.org/pdf/1710.04782.pdf){:target="_blank"}
+
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multimodal.png" width="80" height="80"> Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer's Disease using structural MR and FDG-PET images**, _Scientific Reports, 2018._ [preprint pdf](https://arxiv.org/pdf/1710.04782.pdf){:target="_blank"}
+
+
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2018multiscale.png" width="80" height="90"> Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multiscale deep neural network based analysis of FDG-PET images for the early diagnosis of Alzheimer’s disease**, _Medical Image Analysis, 2018._ [journal webpage](https://www.sciencedirect.com/science/article/pii/S1361841518300276){:target="_blank"}
+
 
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lu2017multiple.png" width="80" height="80"> Donghuan Lu, _Weiguang Ding_, Andrew B. Merkur, Marinko V. Sarunic, and Mirza Faisal Beg, **Multiple Instance Learning for Age-Related Macular Degeneration Diagnosis in Optical Coherence Tomography Images**, _IEEE International Symposium on Biomedical Imaging (ISBI), 2017._ [webpage](http://ieeexplore.ieee.org/abstract/document/7950487/){:target="_blank"}
 
