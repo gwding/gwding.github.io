@@ -8,6 +8,11 @@ published: true
 
 ## Machine Learning
 
+<img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/lui2018dimensionality.png" width="80" height="80">
+Kry Yik-Chau Lui, _Gavin Weiguang Ding_ , Ruitong Huang, Robert J. McCann, **Dimensionality Reduction has Quantifiable Imperfections: Two Geometric Bounds**, _Advances in Neural Information Processing Systems (NIPS) 2018_ [pdf](https://www.borealisai.com/media/filer_public/97/35/9735bcc1-635f-40ab-a7e0-3873ced5b1d3/nips_2018.pdf){:target="_blank"}
+
+
+
 <img style="float:left;margin-right:20px" src="https://raw.githubusercontent.com/gwding/gwding.github.io/master/images/cao2018improving.png" width="80" height="80"> 
 Yanshuai Cao, _Gavin Weiguang Ding_ , Kry Yik-Chau Lui, Ruitong Huang, **Improving GAN Training via Binarized Representation Entropy (BRE) Regularization**, _International Conference on Learning Representations (ICLR) 2018._ [webpage](https://openreview.net/forum?id=BkLhaGZRW){:target="_blank"}, [pdf](https://openreview.net/pdf?id=BkLhaGZRW){:target="_blank"}
 
