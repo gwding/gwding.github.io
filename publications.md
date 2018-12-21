@@ -8,18 +8,21 @@ published: true
 
 ## Machine Learning
 
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019sensitivity.png" width="80" height="80">
+_Gavin Weiguang Ding_, Kry Yik-Chau Lui, Xiaomeng Jin, Luyu Wang, Ruitong Huang, **On the Sensitivity of Adversarial Robustness to Input Data Distributions**, _International Conference on Learning Representations (ICLR) 2019._ [OpenReview](https://openreview.net/forum?id=S1xNEhR9KX){:target="_blank"}, [pdf](https://openreview.net/pdf?id=S1xNEhR9KX){:target="_blank"}
+
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2018max.png" width="80" height="80">
-_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **Max-Margin Adversarial (MMA) Training: Direct Input Space Margin Maximization through Adversarial Training**, _Preprint. Work in progress._ [pdf](https://arxiv.org/pdf/1812.02637.pdf){:target="_blank"}
+_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **Max-Margin Adversarial (MMA) Training: Direct Input Space Margin Maximization through Adversarial Training**, _Preprint. Work in progress._ [preprint pdf](https://arxiv.org/pdf/1812.02637.pdf){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lui2018dimensionality.png" width="80" height="80">
-Kry Yik-Chau Lui, _Gavin Weiguang Ding_ , Ruitong Huang, Robert J. McCann, **Dimensionality Reduction has Quantifiable Imperfections: Two Geometric Bounds**, _Advances in Neural Information Processing Systems (NeurIPS) 2018_ [pdf](https://arxiv.org/pdf/1811.00115.pdf){:target="_blank"} [webpage](https://papers.nips.cc/paper/8065-dimensionality-reduction-has-quantifiable-imperfections-two-geometric-bounds){:target="_blank"}
+Kry Yik-Chau Lui, _Gavin Weiguang Ding_ , Ruitong Huang, Robert J. McCann, **Dimensionality Reduction has Quantifiable Imperfections: Two Geometric Bounds**, _Advances in Neural Information Processing Systems (NeurIPS) 2018_ [webpage](https://papers.nips.cc/paper/8065-dimensionality-reduction-has-quantifiable-imperfections-two-geometric-bounds){:target="_blank"}, [pdf](https://arxiv.org/pdf/1811.00115.pdf){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/cao2018improving.png" width="80" height="80">
-Yanshuai Cao, _Gavin Weiguang Ding_ , Kry Yik-Chau Lui, Ruitong Huang, **Improving GAN Training via Binarized Representation Entropy (BRE) Regularization**, _International Conference on Learning Representations (ICLR) 2018._ [webpage](https://openreview.net/forum?id=BkLhaGZRW){:target="_blank"}, [pdf](https://openreview.net/pdf?id=BkLhaGZRW){:target="_blank"}
+Yanshuai Cao, _Gavin Weiguang Ding_ , Kry Yik-Chau Lui, Ruitong Huang, **Improving GAN Training via Binarized Representation Entropy (BRE) Regularization**, _International Conference on Learning Representations (ICLR) 2018._ [OpenReview](https://openreview.net/forum?id=BkLhaGZRW){:target="_blank"}, [pdf](https://openreview.net/pdf?id=BkLhaGZRW){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/wang2018adversarial.png" width="80" height="80">
-Luyu Wang, _Gavin Weiguang Ding_, Ruitong Huang, Yanshuai Cao, Yik Chau Lui, **Adversarial Robustness of Pruned Neural Networks**, _2018._ [webpage](https://openreview.net/forum?id=SJGrAisIz){:target="_blank"}, [pdf](https://openreview.net/pdf?id=SJGrAisIz){:target="_blank"}
+Luyu Wang, _Gavin Weiguang Ding_, Ruitong Huang, Yanshuai Cao, Yik Chau Lui, **Adversarial Robustness of Pruned Neural Networks**, _2018._ [OpenReview](https://openreview.net/forum?id=SJGrAisIz){:target="_blank"}, [pdf](https://openreview.net/pdf?id=SJGrAisIz){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2016automatic.png" width="80" height="80">
