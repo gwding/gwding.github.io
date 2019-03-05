@@ -8,6 +8,13 @@ published: true
 
 ## Machine Learning
 
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/sharma2019effectiveness.png" width="80" height="80">
+Yash Sharma, _Gavin Weiguang Ding_, Marcus A. Brubaker, **On the Effectiveness of Low Frequency Perturbations**, _Preprint. Work in progress._ [preprint pdf](https://arxiv.org/pdf/1903.00073.pdf){:target="_blank"}
+
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019advertorch.png" width="80" height="80">
+_Gavin Weiguang Ding_, Xiaomeng Jin, Luyu Wang, **AdverTorch v0.1: An Adversarial Robustness Toolbox based on PyTorch**, _Technical report for the AdverTorch toolbox, 2019._
+[preprint pdf](https://arxiv.org/pdf/1902.07623.pdf){:target="_blank"}, [code](https://github.com/BorealisAI/advertorch){:target="_blank"}
+
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019sensitivity.png" width="80" height="80">
 _Gavin Weiguang Ding_, Kry Yik-Chau Lui, Xiaomeng Jin, Luyu Wang, Ruitong Huang, **On the Sensitivity of Adversarial Robustness to Input Data Distributions**, _International Conference on Learning Representations (ICLR) 2019._ [OpenReview](https://openreview.net/forum?id=S1xNEhR9KX){:target="_blank"}, [pdf](https://openreview.net/pdf?id=S1xNEhR9KX){:target="_blank"}
 
@@ -45,8 +52,10 @@ _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transfo
 ## Medical Image Analysis
 
 
-<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2017retinal.png" width="80" height="120">
-Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2017retinal.png" width="80" height="130">
+Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_,  Eduardo Navajas, Marinko V Sarunic, Mirza Faisal Beg, **Deep-Learning based Multiclass Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using a Fully Convolutional Neural Network**,  _Medical Image Analysis, 2018. **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [journal webpage](https://www.sciencedirect.com/science/article/pii/S1361841518300276){:target="_blank"}, [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
+
+<!-- Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"} -->
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2018multimodal.png" width="80" height="80">
