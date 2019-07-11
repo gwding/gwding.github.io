@@ -8,6 +8,9 @@ published: true
 
 ## Machine Learning
 
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2018max.png" width="80" height="80">
+_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **Max-Margin Adversarial (MMA) Training: Direct Input Space Margin Maximization through Adversarial Training**, _Preprint. Work in progress._ [preprint pdf](https://arxiv.org/pdf/1812.02637.pdf){:target="_blank"}
+
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/sharma2019effectiveness.png" width="80" height="80">
 Yash Sharma, _Gavin Weiguang Ding_, Marcus A. Brubaker, **On the Effectiveness of Low Frequency Perturbations**, _International Joint Conference on Artificial Intelligence (IJCAI) 2019._ [preprint pdf](https://arxiv.org/pdf/1903.00073.pdf){:target="_blank"}
 
@@ -17,9 +20,6 @@ _Gavin Weiguang Ding_, Xiaomeng Jin, Luyu Wang, **AdverTorch v0.1: An Adversaria
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019sensitivity.png" width="80" height="80">
 _Gavin Weiguang Ding_, Kry Yik-Chau Lui, Xiaomeng Jin, Luyu Wang, Ruitong Huang, **On the Sensitivity of Adversarial Robustness to Input Data Distributions**, _International Conference on Learning Representations (ICLR) 2019._ [OpenReview](https://openreview.net/forum?id=S1xNEhR9KX){:target="_blank"}, [pdf](https://openreview.net/pdf?id=S1xNEhR9KX){:target="_blank"}
-
-<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2018max.png" width="80" height="80">
-_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **Max-Margin Adversarial (MMA) Training: Direct Input Space Margin Maximization through Adversarial Training**, _Preprint. Work in progress._ [preprint pdf](https://arxiv.org/pdf/1812.02637.pdf){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lui2018dimensionality.png" width="80" height="80">
 Kry Yik-Chau Lui, _Gavin Weiguang Ding_ , Ruitong Huang, Robert J. McCann, **Dimensionality Reduction has Quantifiable Imperfections: Two Geometric Bounds**, _Advances in Neural Information Processing Systems (NeurIPS) 2018_ [webpage](https://papers.nips.cc/paper/8065-dimensionality-reduction-has-quantifiable-imperfections-two-geometric-bounds){:target="_blank"}, [pdf](https://arxiv.org/pdf/1811.00115.pdf){:target="_blank"}
@@ -53,14 +53,13 @@ _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transfo
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2017retinal.png" width="80" height="130">
-Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_,  Eduardo Navajas, Marinko V Sarunic, Mirza Faisal Beg, **Deep-Learning based Multiclass Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using a Fully Convolutional Neural Network**,  _Medical Image Analysis, 2018. **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [journal webpage](https://www.sciencedirect.com/science/article/pii/S1361841518300276){:target="_blank"}, [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
+Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_,  Eduardo Navajas, Marinko V Sarunic, Mirza Faisal Beg, **Deep-Learning based Multiclass Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using a Fully Convolutional Neural Network**,  _Medical Image Analysis, 2019. **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [journal webpage](https://www.sciencedirect.com/science/article/pii/S1361841519300167){:target="_blank"}, [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"}
 
 <!-- Donghuan Lu, Morgan Heisler, Sieun Lee, _Gavin Weiguang Ding_, Marinko V Sarunic, Mirza Faisal Beg, **Retinal Fluid Segmentation and Detection in Optical Coherence Tomography Images using Fully Convolutional Neural Network**, _under submission, **[1st place winner of MICCAI-RETOUCH challenge, 2017](https://retouch.grand-challenge.org/workshop/)**_. [preprint pdf](https://arxiv.org/pdf/1710.04778.pdf){:target="_blank"} -->
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2018multimodal.png" width="80" height="80">
-Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer's Disease using structural MR and FDG-PET images**, _Scientific Reports, 2018._ [preprint pdf](https://arxiv.org/pdf/1710.04782.pdf){:target="_blank"}
-
+Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multimodal and Multiscale Deep Neural Networks for the Early Diagnosis of Alzheimer's Disease using structural MR and FDG-PET images**, _Scientific Reports, 2018._ [journal webpage](https://www.nature.com/articles/s41598-018-22871-z){:target="_blank"}, [preprint pdf](https://arxiv.org/pdf/1710.04782.pdf){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2018multiscale.png" width="80" height="90">
 Donghuan Lu, Karteek Popuri, _Gavin Weiguang Ding_, Rakesh Balachandar, Mirza Faisal Beg, **Multiscale deep neural network based analysis of FDG-PET images for the early diagnosis of Alzheimer’s disease**, _Medical Image Analysis, 2018._ [journal webpage](https://www.sciencedirect.com/science/article/pii/S1361841518300276){:target="_blank"}
