@@ -15,7 +15,7 @@ _Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **Max-Marg
 Yash Sharma, _Gavin Weiguang Ding_, Marcus A. Brubaker, **On the Effectiveness of Low Frequency Perturbations**, _International Joint Conference on Artificial Intelligence (IJCAI) 2019._ [preprint pdf](https://arxiv.org/pdf/1903.00073.pdf){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019advertorch.png" width="80" height="80">
-_Gavin Weiguang Ding_, Xiaomeng Jin, Luyu Wang, **AdverTorch v0.1: An Adversarial Robustness Toolbox based on PyTorch**, _Technical report for the AdverTorch toolbox, 2019._
+_Gavin Weiguang Ding_, Xiaomeng Jin, Luyu Wang, **AdverTorch v0.1: An Adversarial Robustness Toolbox based on PyTorch**, _Technical report for the AdverTorch toolbox, which is included in the [PyTorch ecosystem](https://pytorch.org/ecosystem){:target="_blank"} and presented at the PyTorch Developer Conference 2019._
 [preprint pdf](https://arxiv.org/pdf/1902.07623.pdf){:target="_blank"}, [code](https://github.com/BorealisAI/advertorch){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019sensitivity.png" width="80" height="80">
