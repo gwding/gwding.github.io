@@ -54,7 +54,7 @@ _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transfo
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2019cascaded.png" width="80" height="80">
-Donghuan Lu, Morgan Heisler, Da Ma, Setareh Dabiri, Sieun Lee, Gavin Weiguang Ding, Marinko V. Sarunic, and Mirza Faisal Beg, **Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence**,  _arXiv preprint_. [pdf](https://arxiv.org/pdf/1912.03418.pdf){:target="_blank"}
+Donghuan Lu, Morgan Heisler, Da Ma, Setareh Dabiri, Sieun Lee, _Gavin Weiguang Ding_, Marinko V. Sarunic, and Mirza Faisal Beg, **Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence**,  _arXiv preprint_. [pdf](https://arxiv.org/pdf/1912.03418.pdf){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2017retinal.png" width="80" height="130">
