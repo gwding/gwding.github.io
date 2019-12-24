@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am a Machine Learning Researcher working at [Borealis AI](http://borealisai.com/){:target="_blank"} at Toronto, ON, Canada. I am interested in a wide range of topics of related to machine learning and artificial intelligence. Currently I spend the majority of my time researching adversarial robustness of deep learning models.
+I am a Senior Researcher working at [Borealis AI](http://borealisai.com/){:target="_blank"}, (an [RBC](https://www.rbcroyalbank.com/){:target="_blank"} Institute for Research) at Toronto, ON, Canada. I am interested in a wide range of topics of related to machine learning and artificial intelligence. Currently I work on machine learning problems at RBC and research adversarial robustness of machine learning models.
 
 ### Brief Bio
 

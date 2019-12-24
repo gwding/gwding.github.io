@@ -8,15 +8,15 @@ published: true
 
 ## Machine Learning
 
-<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2018max.png" width="80" height="80">
-_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **Max-Margin Adversarial (MMA) Training: Direct Input Space Margin Maximization through Adversarial Training**, _Preprint. Work in progress._ [preprint pdf](https://arxiv.org/pdf/1812.02637.pdf){:target="_blank"}
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2020mma.png" width="80" height="80">
+_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **MMA Training: Direct Input Space Margin Maximization through Adversarial Training**, _International Conference on Learning Representations (ICLR) 2020._ [OpenReview](https://openreview.net/forum?id=HkeryxBtPB){:target="_blank"}, [pdf](https://openreview.net/pdf?id=HkeryxBtPB){:target="_blank"}, code to be available soon
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/sharma2019effectiveness.png" width="80" height="80">
 Yash Sharma, _Gavin Weiguang Ding_, Marcus A. Brubaker, **On the Effectiveness of Low Frequency Perturbations**, _International Joint Conference on Artificial Intelligence (IJCAI) 2019._ [preprint pdf](https://arxiv.org/pdf/1903.00073.pdf){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019advertorch.png" width="80" height="80">
-_Gavin Weiguang Ding_, Xiaomeng Jin, Luyu Wang, **AdverTorch v0.1: An Adversarial Robustness Toolbox based on PyTorch**, _Technical report for the AdverTorch toolbox, which is included in the [PyTorch ecosystem](https://pytorch.org/ecosystem){:target="_blank"} and presented at the PyTorch Developer Conference 2019._
-[preprint pdf](https://arxiv.org/pdf/1902.07623.pdf){:target="_blank"}, [code](https://github.com/BorealisAI/advertorch){:target="_blank"}
+_Gavin Weiguang Ding_, Luyu Wang, Xiaomeng Jin, **AdverTorch v0.1: An Adversarial Robustness Toolbox based on PyTorch**, _presented at the PyTorch Developer Conference 2019._ [preprint pdf](https://arxiv.org/pdf/1902.07623.pdf){:target="_blank"}, [code](https://github.com/BorealisAI/advertorch){:target="_blank"} _(Technical report for the AdverTorch toolbox, which is part of the [PyTorch ecosystem](https://pytorch.org/ecosystem){:target="_blank"})_
+
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2019sensitivity.png" width="80" height="80">
 _Gavin Weiguang Ding_, Kry Yik-Chau Lui, Xiaomeng Jin, Luyu Wang, Ruitong Huang, **On the Sensitivity of Adversarial Robustness to Input Data Distributions**, _International Conference on Learning Representations (ICLR) 2019._ [OpenReview](https://openreview.net/forum?id=S1xNEhR9KX){:target="_blank"}, [pdf](https://openreview.net/pdf?id=S1xNEhR9KX){:target="_blank"}
@@ -50,6 +50,11 @@ _Weiguang Ding_, and Graham W. Taylor, **"Mental Rotation" by Optimizing Transfo
 <br><br>
 
 ## Medical Image Analysis
+
+
+
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2019cascaded.png" width="80" height="80">
+Donghuan Lu, Morgan Heisler, Da Ma, Setareh Dabiri, Sieun Lee, Gavin Weiguang Ding, Marinko V. Sarunic, and Mirza Faisal Beg, **Cascaded Deep Neural Networks for Retinal Layer Segmentation of Optical Coherence Tomography with Fluid Presence**,  _arXiv preprint_. [pdf](https://arxiv.org/pdf/1912.03418.pdf){:target="_blank"}
 
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/lu2017retinal.png" width="80" height="130">
