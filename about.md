@@ -20,7 +20,7 @@ I got my Bachelor of Engineering degree from [School of Advanced Engineering](ht
 I spent nearly 20 years at [Handan](https://en.wikipedia.org/wiki/Handan){:target="_blank"}, Hebei, China (河北, 邯郸) before college.
 
 
-[**CV**](http://www.uoguelph.ca/~wding/CV.pdf){:target="_blank"}  (might be out of date, latest always available upon request)
+[**CV**](https://gwding.github.io/pdfs/CV.pdf){:target="_blank"}  (might be out of date, latest available upon request)
 
 ### Contact me
 

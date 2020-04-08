@@ -8,8 +8,11 @@ published: true
 
 ## Machine Learning
 
+<img style="float:left;margin-right:20px" src="https://gwding.github.io/images/wu2020minimax.png" width="80" height="80">
+Kaiwen Wu, _Gavin Weiguang Ding_, Ruitong Huang, Yaoliang Yu, **On Minimax Optimality of GANs for Robust Mean Estimation**, _International Conference on Artificial Intelligence and Statistics (AISTATS) 2020._ [pdf](https://cs.uwaterloo.ca/~k77wu/paper/aistats2020.pdf){:target="_blank"}, [code](https://github.com/BorealisAI/robust-gan){:target="_blank"}
+
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/ding2020mma.png" width="80" height="80">
-_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **MMA Training: Direct Input Space Margin Maximization through Adversarial Training**, _International Conference on Learning Representations (ICLR) 2020._ [OpenReview](https://openreview.net/forum?id=HkeryxBtPB){:target="_blank"}, [pdf](https://openreview.net/pdf?id=HkeryxBtPB){:target="_blank"}, code to be available soon
+_Gavin Weiguang Ding_ , Yash Sharma, Kry Yik Chau Lui, Ruitong Huang, **MMA Training: Direct Input Space Margin Maximization through Adversarial Training**, _International Conference on Learning Representations (ICLR) 2020._ [OpenReview](https://openreview.net/forum?id=HkeryxBtPB){:target="_blank"}, [pdf](https://openreview.net/pdf?id=HkeryxBtPB){:target="_blank"}, [code](https://github.com/BorealisAI/mma_training){:target="_blank"}
 
 <img style="float:left;margin-right:20px" src="https://gwding.github.io/images/sharma2019effectiveness.png" width="80" height="80">
 Yash Sharma, _Gavin Weiguang Ding_, Marcus A. Brubaker, **On the Effectiveness of Low Frequency Perturbations**, _International Joint Conference on Artificial Intelligence (IJCAI) 2019._ [preprint pdf](https://arxiv.org/pdf/1903.00073.pdf){:target="_blank"}
